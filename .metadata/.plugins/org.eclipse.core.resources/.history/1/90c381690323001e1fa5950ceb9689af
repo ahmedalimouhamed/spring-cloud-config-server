@@ -1,0 +1,13 @@
+
+spring.application.name=configserver
+spring.coud.config.server.git.uri=https://github.com/ahmedalimouhamed/config-server
+management.endpoints.web.exposure.exclude=*
+server.port=9865
+spring.cloud.config.server.bootstrap=true
+
+
+spring.application.name=configserver
+spring.cloud.config.server.git.uri=https://github.com/ahmedalimouhamed/config-server
+management.endpoints.web.exposure.exclude=*
+server.port=9865
+spring.cloud.config.server.bootstrap=true

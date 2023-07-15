@@ -1,0 +1,4 @@
+
+spring.application.name=configserver
+spring.coud.config.server.git.uri=https://github.com/ahmedalimouhamed/config-server
+management.endpoints.web.exposure.exclude==
